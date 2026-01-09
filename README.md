@@ -1,5 +1,4 @@
-## Hi there 👋
-
+<img width="554" height="554" alt="Image" src="https://github.com/user-attachments/assets/ab8be874-efca-4599-a91b-b7a727c29a61" />
 <!--
 **daffodildakota/daffodildakota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
